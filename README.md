@@ -7,3 +7,4 @@
   ```bash
   ssh -i aws-key.pem ubuntu@13.222.128.69
 
+PROJECT CREDIT: https://roadmap.sh/projects/ssh-remote-server-setup
